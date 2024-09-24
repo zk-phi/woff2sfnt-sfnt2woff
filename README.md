@@ -7,11 +7,11 @@ Usage
 ----------
 To convert fonts from **woff2sfnt** invoke the script from the command line:
 
-    woff2sfn.js input.ttf output.woff
+    node woff2sfn.js input.ttf output.woff
 
 To convert fonts from sfnt2woff invoke the script from the command line:
 
-    sfnt2woff.js input.woff output.otf
+    node sfnt2woff.js input.woff output.otf
 
 
 Dependencies
